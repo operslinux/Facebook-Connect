@@ -29,7 +29,7 @@ $ apt update && apt upgrade
 $ apt install git python3
 ```
 ```
-$ git clone https://github.com/operslinux/Opers-Shodan.git
+$ git clone https://github.com/operslinux/Facebook-Connect.git
 ```
 ```
 $ cd Opers-Shodan

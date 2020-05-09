@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 from form.logo import LogoTwo, LogoCero, LogoOne
@@ -30,7 +29,7 @@ def verify():
         os.system("rm geckodriver-v0.26.0-linux64.tar.gz")
 
 
-def run():
+def main():
     LogoCero()
     Carga()
     verify()
@@ -84,8 +83,8 @@ def run():
 
 
 
-def Finish():
-    run()
 
 
-Finish()
+
+if __name__ == '__main__':
+    main()

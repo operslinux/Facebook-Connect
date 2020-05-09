@@ -32,7 +32,7 @@ $ apt install git python3
 $ git clone https://github.com/operslinux/Facebook-Connect.git
 ```
 ```
-$ cd Opers-Shodan
+$ cd Facebook-Connect 
 ```
 
 # [ Setup ]

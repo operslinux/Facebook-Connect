@@ -42,10 +42,10 @@ def MenuInicial():
 
 def verify():
     if os.path.isfile("/usr/bin/geckodriver") == True:
-        MenuInicial()
         print("{} El archivo si existe {} <Ejecutando Script> {}".format(Fore.BLUE, Fore.GREEN, Fore.RESET))
+        Carga()
     else:
-        MenuInicial()
+        
         print("{} el archivo no existe, {} comenzando DESCARGA.... {}".format(Fore.RED, Fore.WHITE, Fore.RESET))
         Carga()
         os.system("wget https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz")

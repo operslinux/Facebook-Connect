@@ -105,4 +105,7 @@ def main():
         print(" correo1 contraseña \n correo2 contraseña2")
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        exit()

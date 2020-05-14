@@ -34,6 +34,9 @@ $ git clone https://github.com/operslinux/Facebook-Connect.git
 ```
 $ cd Facebook-Connect 
 ```
+```
+$sudo chmod +x run.py
+```
 
 # [ Setup ]
 ```

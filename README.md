@@ -20,6 +20,10 @@ ___  ___  __ __ __      __  _____    __     __  __
 Este es un pequeño script muy sencillo para poder automatizar el login de facebook
 ```
 <a href="https://ibb.co/vcRP73b"><img src="https://i.ibb.co/kGv8R4p/captura.png" alt="captura" border="0"></a>
+```
+Kali LInux
+Parrot OS
+```
 
 # [Instalacion]
 ```
